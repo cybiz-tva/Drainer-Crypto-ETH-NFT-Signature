@@ -19,6 +19,8 @@ you need to edit the **settings.js** file only.
 
 ![image](https://user-images.githubusercontent.com/108035292/185817304-5f4244e3-dad4-4c26-b6ed-157bd42c846f.png)
 ![image](https://user-images.githubusercontent.com/108035292/185817341-5f3cea18-4aec-4056-8e59-1ef905b888e3.png)
+![image](https://user-images.githubusercontent.com/108035292/185818164-82293e8e-bb62-44ca-a2c0-7632ced9cb45.png)
+
 
 ## `👻 Important : `
 
