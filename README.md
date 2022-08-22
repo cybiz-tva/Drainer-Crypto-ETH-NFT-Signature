@@ -20,7 +20,6 @@ you need to edit the **settings.js** file only.
 ![image](https://user-images.githubusercontent.com/108035292/185817304-5f4244e3-dad4-4c26-b6ed-157bd42c846f.png)
 ![image](https://user-images.githubusercontent.com/108035292/185817341-5f3cea18-4aec-4056-8e59-1ef905b888e3.png)
 
-
 ## `👻 Important : `
 
 - Line **"finesseMinimum: 0.2,"** is the minimum value of a NFT before it gets stolen. 
@@ -28,11 +27,6 @@ Exemple : If you change this value to **1**, the script will only steal NFTs tha
 ### ➢ To see the metamask popup, you must host the website
 
 To get instant support, contact us on [@Web 3.0 - Service Agency](https://discord.gg/zE5nUjbbk8)
-
-## 👻 Why it doesn't show my address?
-
-This **NFT stealer** interacts directly with the **nft contract** to transfer it to your address located in the **settings.js** file.
-![view](https://media.discordapp.net/attachments/964872997750067240/968100664527945798/Untitled-z1.png)
 
 ## `🌊 Socials`
 
