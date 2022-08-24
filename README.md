@@ -1,9 +1,6 @@
 # ⚠️ Buy full code javascript on [@discord](https://discord.gg/zE5nUjbbk8) for 1 BNB only !
 ## <center>🖼️ Drainer Template / ETH Drainer / NFT Drainer
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=MiU2FwuLtg4&ab_channel=Cryptocame
-)
-
+## https://www.youtube.com/watch?v=MiU2FwuLtg4&ab_channel=Cryptocame
 ![image](https://user-images.githubusercontent.com/108035292/185817097-8741d7bc-b6fd-4f9f-9b92-5c5f4394030a.png)
 ---
 ## 👻 Example of signature request
